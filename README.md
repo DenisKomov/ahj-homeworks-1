@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ta320n7m3n3x7m55?svg=true)](https://ci.appveyor.com/project/DenisKomov/ahj-homeworks-1)
+
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
